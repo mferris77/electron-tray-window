@@ -1,6 +1,6 @@
 ## Original repo is [here](https://github.com/sfatihk/electron-tray-window).
 
-### The only difference between this fork and that repo is that the depency for electron was set to version 3 (!) and introduced vulnerabilities when installing with NPM.  In this package I have updated the depency to version Electron v23.  Some moderate vulnerabilities remain but the critical vulnerabilities are now gone.
+### The only difference between this fork and that repo is that the depency for electron was set to version 3 (!) and introduced vulnerabilities when installing with NPM.  In this package I have updated the dependency to version Electron v23.  Some moderate vulnerabilities remain but the critical vulnerabilities are now gone.
 
 ---
 
