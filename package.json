@@ -27,9 +27,9 @@
   },
   "homepage": "https://github.com/sfatihk/electron-tray-window#readme",
   "dependencies": {
-    "electron": "^3.0.10"
+    "electron": "^23.0.0"
   },
   "peerDependencies": {
-    "electron": "^3.0.10"
+    "electron": "^23.0.0"
   }
 }
